@@ -1,5 +1,5 @@
 alias aliases='nvim ~/.bash_aliases'
-alias vimrc='nvim ~/.config/nvim/init.vim'
+alias vimrc='nvim ~/.config/nvim/init.lua'
 alias bashrc='nvim ~/.bashrc'
 alias global_vars='sudo nvim /etc/environment'
 alias profile='nvim ~/.profile'
